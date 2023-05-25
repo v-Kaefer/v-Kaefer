@@ -1,13 +1,10 @@
 ### Hi there 👋
 <div>
   <a href=""><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=v-Kaefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
-  <a href=""><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-Kaefer&layout=donut-vertical)"/></a>
+  <a href=""><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-Kaefer&count_private=true"></a>
 </div>
-<div></div>
 
 ##
-
-
 
 <div alt="Most Used" style="display: inline_block;">
   <a href=""><img alt="Vite"  height="30" width="40" src="https://www.svgrepo.com/show/374167/vite.svg"/></a>
