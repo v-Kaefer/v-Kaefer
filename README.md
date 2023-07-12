@@ -17,11 +17,11 @@
   <a href=""><img alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a>
 </div>
 
-##
+<!-- ##
 ### SNS
 <div style="display: inline_block;">
   <a href="https://www.linkedin.com/in/vitor-kaefer/"><img alt="LinkedIn" align="center"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+</div> -->
 
 ##
 ### Frameworks/Linguagens para projetos futuros
