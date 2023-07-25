@@ -1,35 +1,62 @@
-<div>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=v-Kaefer&theme=github-compact&height=350&hide_border=true&hide_title=true)
+
+<!--<div>
   <a href=""><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=v-Kaefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
   <a href=""><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-Kaefer&include_all_langs=true&count_private=true"></a>
-  
+</div>-->
+
+### Most used techs
+<div alt="Most Used" style="display: inline_block;">
+  <a href=""><img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+  <a href=""><img alt="React" height="30" width="40" src="https://api.iconify.design/skill-icons/react-dark.svg" /></a>
+  <a href=""><img alt="Vite"  height="30" width="40" src="https://api.iconify.design/skill-icons/vite-dark.svg"/></a>
+  <a href=""><img alt="Tailwind" height="30" width="40" src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" /></a>
+  <a href=""><img alt="SASS" height="30" width="40" src="https://api.iconify.design/skill-icons/sass.svg" /></a>
+  <a href=""><img alt="Python" height="30" width="40" src="https://api.iconify.design/skill-icons/python-light.svg" /></a>
+  <a href=""><img alt="Figma" height="30" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
+  <!--<a href=""><img alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a> -->
 </div>
+
+
+
+
+### Currently Learning
+<div style="display: inline_block;">
+  <img alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img alt="Astro" height="30" width="40" src="https://api.iconify.design/skill-icons/astro.svg" />
+  <img alt="Svelte" height="30" width="40" src="https://api.iconify.design/skill-icons/svelte.svg" />
+  <img alt="AWS" height="30" width="40" src="https://api.iconify.design/skill-icons/aws-light.svg" />
+  <img alt="GraphQL" height="30" width="40" src="https://api.iconify.design/skill-icons/graphql-dark.svg" />
+  <img alt="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" />
+</div>
+
 
 ##
+<details text_color=blue>
+  <summary>About [ENG]</summary>
+  Most, if not all of the Techs I'm learning, I use in freelas and/or own projects. 
+  As well as Startups that I participate or am invited to participate.
+  Self-taught Programmer, but recently i started a Software Engineer degree (2023/1).
+</details>
 
-<div alt="Most Used" style="display: inline_block;">
-  <a href=""><img alt="Vite"  height="30" width="40" src="https://www.svgrepo.com/show/374167/vite.svg"/></a>
-  <a href=""><img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-  <a href=""><img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-  <a href=""><img alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
-  <a href=""><img alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
-  <a href=""><img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-  <a href=""><img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></a>
-  <a href=""><img alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a>
-</div>
-
-<!-- ##
-### SNS
-<div style="display: inline_block;">
-  <a href="https://www.linkedin.com/in/vitor-kaefer/"><img alt="LinkedIn" align="center"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div> -->
+<details text_color=blue>
+  <summary>Sobre [PT-BR]</summary>
+  A maioria, se não todas as Techs que estou aprendendo, uso em freelas e/ou projetos próprios.
+  Assim como Startups que participo.
+  Programador autodidacta, mas recentemente iniciei a licenciatura em Engenharia de Software (2023/1).
+</details>
 
 ##
 ### Frameworks/Linguagens para projetos futuros
 <div style="display: inline_block;">
-  <a href=""><img align="left" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/></a>
-  <a href=""><img align="left" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
-  <a href=""><img align="left" height="30" width="40" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png"/></a>
+  <img alt="Solidity" align="left" height="30" width="40" src="https://api.iconify.design/skill-icons/solidity.svg"/>
+  <img alt="Rust" align="left" height="30" width="40" src="https://api.iconify.design/skill-icons/rust.svg" />
+  <img alt="Hardhat" align="left" height="30" width="40" src="https://api.iconify.design/devicon/hardhat.svg"/>
+  <img alt="Unity" align="left" height="30" width="40" src="https://api.iconify.design/skill-icons/unity-light.svg"/>
+  <img alt="Unreal Engine" align="left" height="30" width="40" src="https://api.iconify.design/skill-icons/unrealengine.svg"/>
 </div>
+
+
 <!--
 #
 ### Contribuições
