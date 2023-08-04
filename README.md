@@ -7,13 +7,13 @@
 
 ### ⚡ Most used techs
 <div alt="Most Used" style="display: inline_block;">
-  <a href=""><img title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-  <a href=""><img title="React" height="30" width="40" src="https://api.iconify.design/skill-icons/react-dark.svg" /></a>
-  <a href=""><img title="Vite"  height="30" width="40" src="https://api.iconify.design/skill-icons/vite-dark.svg"/></a>
-  <a href=""><img title="Python" height="30" width="40" src="https://api.iconify.design/skill-icons/python-light.svg" /></a>
-  <a href=""><img title="Tailwind" height="30" width="40" src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" /></a>
-  <a href=""><img title="SASS" height="30" width="40" src="https://api.iconify.design/skill-icons/sass.svg" /></a>
-  <a href=""><img title="Figma" height="30" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
+  <a href="https://www.javascript.com/"><img title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+  <a href="https://react.dev/"><img title="React" height="30" width="40" src="https://api.iconify.design/skill-icons/react-dark.svg" /></a>
+  <a href="https://vitejs.dev/"><img title="Vite"  height="30" width="40" src="https://api.iconify.design/skill-icons/vite-dark.svg"/></a>
+  <a href="https://www.python.org/"><img title="Python" height="30" width="40" src="https://api.iconify.design/skill-icons/python-light.svg" /></a>
+  <a href="https://tailwindcss.com/"><img title="Tailwind" height="30" width="40" src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" /></a>
+  <a href="https://sass-lang.com/"><img title="SASS" height="30" width="40" src="https://api.iconify.design/skill-icons/sass.svg" /></a>
+  <a href="https://www.figma.com/"><img title="Figma" height="30" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
   <!--<a href=""><img alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a> -->
 </div>
 
