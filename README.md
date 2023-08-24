@@ -78,7 +78,7 @@
   
   - Startup(s) [2]:
 
-    Lux , (Project)
+    LELA Project, (project)
   
   - Site(s) [2]:
 
