@@ -31,18 +31,18 @@
 ##
 <details text_color=blue>
   <summary>🔍 About / Sobre</summary>
-  #[ENG]
+  ##[ENG]
 
   Most, if not all of the Techs I'm learning, I use in freelas and/or own projects. 
   As well as Startups that I participate or am invited to participate.
   Self-taught Programmer, but recently i started a Software Engineer degree (2023/1).
 
   
-  #[PT-BR]
+  ##[PT-BR]
   
   A maioria das Techs que estou aprendendo, uso em freelas e/ou projetos próprios.
   Assim como Startups que participo ou sou convidado.
-  Programador autodidacta, mas recentemente iniciei a licenciatura em Engenharia de Software (2023/1).
+  Programador autodidata, mas recentemente iniciei a licenciatura em Engenharia de Software (2023/1).
 </details>
 
 <details>
