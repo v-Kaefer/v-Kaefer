@@ -112,6 +112,7 @@
     
     <img alt="Unity" height="30" width="35" src="https://api.iconify.design/skill-icons/unity-light.svg"/>
     <img alt="Unreal Engine" height="30" width="35" src="https://api.iconify.design/skill-icons/unrealengine.svg"/>
+    <img alt="Godot" height="30" width="35" src="https://api.iconify.design/skill-icons/godot-light.svg"/>
 
   - ETC:
 
