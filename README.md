@@ -8,13 +8,13 @@
 ### ⚡ Most used techs
 <div alt="Most Used" style="display: inline_block;">
   <a href="https://www.javascript.com/"><img title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-  <a href="https://react.dev/"><img title="React" height="30" width="40" src="https://api.iconify.design/skill-icons/react-dark.svg" /></a>
-  <a href="https://vitejs.dev/"><img title="Vite"  height="30" width="40" src="https://api.iconify.design/skill-icons/vite-dark.svg"/></a>
-  <a href="https://www.python.org/"><img title="Python" height="30" width="40" src="https://api.iconify.design/skill-icons/python-light.svg" /></a>
-  <a href="https://tailwindcss.com/"><img title="Tailwind" height="30" width="40" src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" /></a>
-  <a href="https://sass-lang.com/"><img title="SASS" height="30" width="40" src="https://api.iconify.design/skill-icons/sass.svg" /></a>
-  <a href="https://www.figma.com/"><img title="Figma" height="30" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
-  <!--<a href=""><img alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a> -->
+  <a href="https://react.dev"><img title="React" height="30" width="40" src="https://api.iconify.design/skill-icons/react-dark.svg" /></a>
+  <a href="https://vitejs.dev"><img title="Vite"  height="30" width="40" src="https://api.iconify.design/skill-icons/vite-dark.svg"/></a>
+  <a href="https://www.python.org"><img title="Python" height="30" width="40" src="https://api.iconify.design/skill-icons/python-light.svg" /></a>
+  <a href="https://tailwindcss.com"><img title="Tailwind" height="30" width="40" src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" /></a>
+  <a href="https://sass-lang.com"><img title="SASS" height="30" width="40" src="https://api.iconify.design/skill-icons/sass.svg" /></a>
+  <a href="https://www.figma.com"><img title="Figma" height="30" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
+  <a href="https://www.canva.com"><img alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a>
 </div>
 
 ### 📝 Currently Learning
@@ -24,6 +24,7 @@
   <img title="Svelte" height="30" width="40" src="https://api.iconify.design/skill-icons/svelte.svg" />
   <img title="AWS" height="30" width="40" src="https://api.iconify.design/skill-icons/aws-light.svg" />
   <img title="Google Cloud" height="30" width="40" src="https://api.iconify.design/devicon/googlecloud.svg" />
+  <img title="Redis" height="30" width="40" src="https://api.iconify.design/skill-icons/redis-dark.svg" />
   <img title="GraphQL" height="30" width="40" src="https://api.iconify.design/skill-icons/graphql-dark.svg" />
   <img title="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" />
 </div>
@@ -31,14 +32,14 @@
 ##
 <details text_color=blue>
   <summary>🔍 About / Sobre</summary>
-  ##[ENG]
+
+  ##**[ENG]**
 
   Most, if not all of the Techs I'm learning, I use in freelas and/or own projects. 
   As well as Startups that I participate or am invited to participate.
   Self-taught Programmer, but recently i started a Software Engineer degree (2023/1).
-
   
-  ##[PT-BR]
+  ##**[PT-BR]**
   
   A maioria das Techs que estou aprendendo, uso em freelas e/ou projetos próprios.
   Assim como Startups que participo ou sou convidado.
