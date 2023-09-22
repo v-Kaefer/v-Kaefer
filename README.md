@@ -9,8 +9,8 @@
 <div alt="Most Used" style="display: inline_block;">
   <a href="https://www.javascript.com/"><img title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
   <a href="https://react.dev"><img title="React" height="30" width="40" src="https://api.iconify.design/skill-icons/react-dark.svg" /></a>
+  <a href="https://www.java.com"><img title="JAVA" height="30" width="40" src="https://api.iconify.design/skill-icons/java-light.svg?color=white" /></a>
   <a href="https://vitejs.dev"><img title="Vite"  height="30" width="40" src="https://api.iconify.design/skill-icons/vite-dark.svg"/></a>
-  <a href="https://www.python.org"><img title="Python" height="30" width="40" src="https://api.iconify.design/skill-icons/python-light.svg" /></a>
   <a href="https://tailwindcss.com"><img title="Tailwind" height="30" width="40" src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" /></a>
   <a href="https://sass-lang.com"><img title="SASS" height="30" width="40" src="https://api.iconify.design/skill-icons/sass.svg" /></a>
   <a href="https://www.figma.com"><img title="Figma" height="30" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
@@ -19,19 +19,19 @@
 
 ### 📝 Currently Learning
 <div style="display: inline_block;">
-  <img title="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img title="Astro" height="30" width="40" src="https://api.iconify.design/skill-icons/astro.svg" />
-  <img title="Svelte" height="30" width="40" src="https://api.iconify.design/skill-icons/svelte.svg" />
-  <img title="AWS" height="30" width="40" src="https://api.iconify.design/skill-icons/aws-light.svg" />
-  <img title="Google Cloud" height="30" width="40" src="https://api.iconify.design/devicon/googlecloud.svg" />
-  <img title="Redis" height="30" width="40" src="https://api.iconify.design/skill-icons/redis-dark.svg" />
-  <img title="GraphQL" height="30" width="40" src="https://api.iconify.design/skill-icons/graphql-dark.svg" />
-  <img title="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" />
+  <a href="https://www.typescriptlang.org"><img title="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
+  <a href="https://redis.io"><img title="Redis" height="30" width="40" src="https://api.iconify.design/skill-icons/redis-dark.svg" /></a>
+  <a href="https://nodejs.org"><img title="Node.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nodejs-light.svg?color=white" /></a>
+  <a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="30" width="35" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>
+  <a href="https://planetscale.com"><img title="PlanetScale" height="30" width="40" src="https://api.iconify.design/skill-icons/planetscale-light.svg?color=white" /></a>
+  <a href="https://developer.arm.com"><img title="ARM Assembly" height="30" width="40" src="https://api.iconify.design/file-icons/assembly-arm.svg?color=white" /></a>
+  
+  
 </div>
 
 ##
 <details text_color=blue>
-  <summary>🔍 About / Sobre</summary>
+  <summary>🔍 About me / Sobre mim</summary>
 
   ##**[ENG]**
 
@@ -54,23 +54,23 @@
      
      <a href="https://code.visualstudio.com/"><img title="VSCode" height="30" width="40" src="https://api.iconify.design/logos/visual-studio-code.svg" /></a>
      <a href="https://desktop.github.com/"><img title="Github Desktop" height="30" width="40" src="https://desktop.github.com/images/desktop-icon.svg" /></a>
-     <a href="https://app.eraser.io/"><img title="Eraser.io" height="30" width="40" src="https://api.iconify.design/logos/eraser-icon.svg?color=%236be096" /></a>
-     <a href="https://linear.app/"><img title="" height="35" width="35" src="https://linear.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FappIcon.8a73aef2.png&w=1080&q=75" /></a>
-
-  - Serverles / Cloud Related:
-    
-    <a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="30" width="35" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>
-    <a href="https://vercel.com/"><img title="Vercel" height="30" width="35" src="https://api.iconify.design/skill-icons/vercel-dark.svg" /></a>
+     <a href="https://linear.app/"><img title="Linear App" height="38" width="38" src="https://linear.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FappIcon.8a73aef2.png&w=1080&q=75" /></a>
+     <a href="https://app.eraser.io/"><img title="Eraser.io" height="30" width="40" margin-top="5px" src="https://api.iconify.design/logos/eraser-icon.svg?color=%236be096" /></a>
+     <a href="https://obsidian.md"><img title="Obsidian" height="30" width="40" src="https://api.iconify.design/logos/obsidian-icon.svg?color=white" /></a>
+     <a href="https://spotify.com"><img title="Spotify" height="30" width="40" src="https://api.iconify.design/logos/spotify-icon.svg?color=white" /></a>
+     
+<!--  - Serverles / Cloud Related:
+        
     <a href="https://planetscale.com/"><img title="PlanetScale" height="30" width="35" src="https://api.iconify.design/skill-icons/planetscale-dark.svg" /></a>
     <a href="https://redis.io/"><img title="Redis" height="30" width="35" src="https://api.iconify.design/skill-icons/redis-dark.svg" /></a>
-    <a href="https://firebase.google.com/"><img title="Firebase" height="30" width="30" src="https://api.iconify.design/vscode-icons/file-type-firebase.svg?color=%236be096" /></a>
+    
 
   - ETC:
 
     <a href="https://authjs.dev/"><img title="Auth.js" height="30" width="28" src="https://authjs.dev/img/logo/logo-sm.webp" /></a>
     <a href="https://auth0.com/"><img title="Auth0" height="30" width="35" src="https://api.iconify.design/cib/auth0.svg?color=white" /></a>
     <a href="https://www.hotjar.com/"><img title="Hotjar" height="30" width="35" src="https://api.iconify.design/logos/hotjar-icon.svg?color=%236be096" /></a>
-    
+    -->
   </div>
 </details>
 
@@ -92,7 +92,10 @@
 
   - Serverles / Cloud Related:
 
+    <a href="https://firebase.google.com/"><img title="Firebase" height="30" width="30" src="https://api.iconify.design/vscode-icons/file-type-firebase.svg?color=%236be096" /></a>
     <a href="https://redux.js.org/"><img alt="Redux" height="30" width="35" src="https://api.iconify.design/skill-icons/redux.svg" /></a>
+    <a href="https://cloud.google.com"><img alt="Google Cloud" height="30" width="40" src="https://api.iconify.design/devicon/googlecloud.svg" /></a>
+    <a href="https://vercel.com/"><img title="Vercel" height="30" width="35" src="https://api.iconify.design/skill-icons/vercel-dark.svg" /></a>
     <a href="https://www.prisma.io/"><img alt="Prisma" height="30" width="35" src="https://api.iconify.design/skill-icons/prisma.svg" /></a>
     <a href="https://axiom.co/"><img bg-color="white" alt="Axiom" height="30" width="30" src="https://avatars.githubusercontent.com/u/21122348?s=200&v=4" /></a>
     <a href="https://www.terraform.io/"><img alt="Terraform" height="30" width="35" src="https://api.iconify.design/devicon/terraform.svg" /></a>
@@ -111,7 +114,6 @@
 
   - Gaming / Engines:
     
-    <img alt="Unity" height="30" width="35" src="https://api.iconify.design/skill-icons/unity-light.svg"/>
     <img alt="Unreal Engine" height="30" width="35" src="https://api.iconify.design/skill-icons/unrealengine.svg"/>
     <img alt="Godot" height="30" width="35" src="https://api.iconify.design/skill-icons/godot-light.svg"/>
 
@@ -119,6 +121,12 @@
 
     <a href="https://turbo.build/"><img alt="Turborepo" height="30" width="30" src="https://api.iconify.design/simple-icons/turborepo.svg?color=white" /></a>
     <a href="https://uptime.kuma.pet/"><img alt="Uptime Kuma" height="30" width="35" src="https://api.iconify.design/simple-icons/uptimekuma.svg?color=%236be096" /></a>
+    <a href="https://www.python.org"><img title="Python" height="30" width="40" src="https://api.iconify.design/skill-icons/python-light.svg" /></a>
+    <a href="https://astro.build"><img title="Astro" height="30" width="40" src="https://api.iconify.design/skill-icons/astro.svg" /></a>
+    <a href="https://svelte.dev"><img title="Svelte" height="30" width="40" src="https://api.iconify.design/skill-icons/svelte.svg" /></a>
+    <a href="https://aws.amazon.com"><img title="AWS" height="30" width="40" src="https://api.iconify.design/skill-icons/aws-light.svg" /></a>
+    <a href="https://graphql.org"><img title="GraphQL" height="30" width="40" src="https://api.iconify.design/skill-icons/graphql-dark.svg" /></a>
+    <a href="https://trpc.io"><img title="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" /></a>
     
 </div>
 
