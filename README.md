@@ -1,7 +1,7 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=v-Kaefer&theme=github-compact&height=350&hide_border=true&hide_title=true)
 
 <!--<div>
-  <a href=""><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=v-Kaefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+  <a href=""><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=v-Kaefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a><a href=""><img title="" height="30" width="40" src="" /></a>
   <a href=""><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-Kaefer&include_all_langs=true&count_private=true"></a>
 </div>-->
 
@@ -14,17 +14,22 @@
   <a href="https://tailwindcss.com"><img title="Tailwind" height="30" width="40" src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" /></a>
   <a href="https://sass-lang.com"><img title="SASS" height="30" width="40" src="https://api.iconify.design/skill-icons/sass.svg" /></a>
   <a href="https://www.figma.com"><img title="Figma" height="30" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
-  <a href="https://www.canva.com"><img alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a>
+  <!--<a href="https://www.canva.com"><img alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a>-->
 </div>
 
 ### 📝 Currently Learning
 <div style="display: inline_block;">
   <a href="https://www.typescriptlang.org"><img title="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-  <a href="https://redis.io"><img title="Redis" height="30" width="40" src="https://api.iconify.design/skill-icons/redis-dark.svg" /></a>
-  <a href="https://nodejs.org"><img title="Node.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nodejs-light.svg?color=white" /></a>
-  <a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="30" width="35" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>
+  <a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="30" width="40" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>
+  <!--<a href="https://nodejs.org"><img title="Node.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nodejs-light.svg?color=white" /></a>-->
+  <a href="https://nextjs.org"><img title="Next.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nextjs-light.svg" /></a>
+  <a href="https://vercel.com/"><img title="Vercel" height="30" width="40" src="https://api.iconify.design/skill-icons/vercel-dark.svg" /></a>
   <a href="https://planetscale.com"><img title="PlanetScale" height="30" width="40" src="https://api.iconify.design/skill-icons/planetscale-light.svg?color=white" /></a>
+  <a href="https://redis.io"><img title="Redis" height="30" width="40" src="https://api.iconify.design/skill-icons/redis-dark.svg" /></a>
+  <a href="https://www.prisma.io/"><img title="Prisma" height="30" width="40" src="https://api.iconify.design/skill-icons/prisma.svg" /></a>
+  <a href="https://trpc.io"><img title="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" /></a>
   <a href="https://developer.arm.com"><img title="ARM Assembly" height="30" width="40" src="https://api.iconify.design/file-icons/assembly-arm.svg?color=white" /></a>
+  <a href="https://upstash.com/"><img title="Upstash" height="28" width="30" src="https://api.iconify.design/logos/upstash-icon.svg" /></a>
   
   
 </div>
@@ -95,11 +100,8 @@
     <a href="https://firebase.google.com/"><img title="Firebase" height="30" width="30" src="https://api.iconify.design/vscode-icons/file-type-firebase.svg?color=%236be096" /></a>
     <a href="https://redux.js.org/"><img alt="Redux" height="30" width="35" src="https://api.iconify.design/skill-icons/redux.svg" /></a>
     <a href="https://cloud.google.com"><img alt="Google Cloud" height="30" width="40" src="https://api.iconify.design/devicon/googlecloud.svg" /></a>
-    <a href="https://vercel.com/"><img title="Vercel" height="30" width="35" src="https://api.iconify.design/skill-icons/vercel-dark.svg" /></a>
-    <a href="https://www.prisma.io/"><img alt="Prisma" height="30" width="35" src="https://api.iconify.design/skill-icons/prisma.svg" /></a>
     <a href="https://axiom.co/"><img bg-color="white" alt="Axiom" height="30" width="30" src="https://avatars.githubusercontent.com/u/21122348?s=200&v=4" /></a>
     <a href="https://www.terraform.io/"><img alt="Terraform" height="30" width="35" src="https://api.iconify.design/devicon/terraform.svg" /></a>
-    <a href="https://upstash.com/"><img alt="Upstash" height="30" width="35" src="https://api.iconify.design/logos/upstash-icon.svg" /></a>
         
   - A.I.:
     
@@ -126,7 +128,6 @@
     <a href="https://svelte.dev"><img title="Svelte" height="30" width="40" src="https://api.iconify.design/skill-icons/svelte.svg" /></a>
     <a href="https://aws.amazon.com"><img title="AWS" height="30" width="40" src="https://api.iconify.design/skill-icons/aws-light.svg" /></a>
     <a href="https://graphql.org"><img title="GraphQL" height="30" width="40" src="https://api.iconify.design/skill-icons/graphql-dark.svg" /></a>
-    <a href="https://trpc.io"><img title="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" /></a>
     
 </div>
 
