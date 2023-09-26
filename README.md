@@ -20,9 +20,9 @@
 ### 📝 Currently Learning
 <div style="display: inline_block;">
   <a href="https://www.typescriptlang.org"><img title="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-  <a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="30" width="40" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>
-  <!--<a href="https://nodejs.org"><img title="Node.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nodejs-light.svg?color=white" /></a>-->
   <a href="https://nextjs.org"><img title="Next.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nextjs-light.svg" /></a>
+  <!--<a href="https://nodejs.org"><img title="Node.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nodejs-light.svg?color=white" /></a>-->
+  <a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="30" width="40" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>
   <a href="https://aws.amazon.com"><img title="AWS" height="30" width="40" src="https://api.iconify.design/skill-icons/aws-light.svg" /></a>
   <a href="https://planetscale.com"><img title="PlanetScale" height="30" width="40" src="https://api.iconify.design/skill-icons/planetscale-light.svg?color=white" /></a>
   <a href="https://redis.io"><img title="Redis" height="30" width="40" src="https://api.iconify.design/skill-icons/redis-dark.svg" /></a>
