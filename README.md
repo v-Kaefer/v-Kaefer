@@ -82,13 +82,13 @@
 <details>
   <summary>📅 Currently working on / Atualmente trabalhando em:</summary>
   
-  - Startup(s) [2]:
+  - Startup(s) [1]:
 
-    LELA Project, (project)
+    LELA Project
   
-  - Site(s) [2]:
+  - Site(s) [1]:
 
-    MirU, (Freela)
+    MirU
 </details>
 
 ##
