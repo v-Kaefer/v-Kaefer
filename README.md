@@ -31,6 +31,7 @@
   <a href="https://www.rust-lang.org"><img title="Rust" height="30" width="40" src="https://api.iconify.design/skill-icons/rust.svg"/></a>
   <a href="https://www.webassembly.org"><img title="WebAssembly" height="30" width="40" src="https://api.iconify.design/skill-icons/webassembly.svg"/></a>
   <a href="https://developer.arm.com"><img title="ARM Assembly" height="30" width="40" src="https://api.iconify.design/file-icons/assembly-arm.svg?color=white" /></a>
+  <a href="https://github.com/radixdlt/radixdlt-scrypto"><img title="Scrypto" height="30" width="30" src="https://avatars.githubusercontent.com/u/34097377?s=48&amp;v=4" /></a>
   <a href="https://upstash.com/"><img title="Upstash" height="28" width="30" src="https://api.iconify.design/logos/upstash-icon.svg" /></a>
   
   
