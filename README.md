@@ -28,6 +28,8 @@
   <a href="https://redis.io"><img title="Redis" height="30" width="40" src="https://api.iconify.design/skill-icons/redis-dark.svg" /></a>
   <a href="https://www.prisma.io/"><img title="Prisma" height="30" width="40" src="https://api.iconify.design/skill-icons/prisma.svg" /></a>
   <a href="https://trpc.io"><img title="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" /></a>
+  <a href="https://www.rust-lang.org"><img title="Rust" height="30" width="40" src="https://api.iconify.design/skill-icons/rust.svg"/></a>
+  <a href="https://www.webassembly.org"><img title="WebAssembly" height="30" width="40" src="https://api.iconify.design/skill-icons/webassembly.svg"/></a>
   <a href="https://developer.arm.com"><img title="ARM Assembly" height="30" width="40" src="https://api.iconify.design/file-icons/assembly-arm.svg?color=white" /></a>
   <a href="https://upstash.com/"><img title="Upstash" height="28" width="30" src="https://api.iconify.design/logos/upstash-icon.svg" /></a>
   
@@ -40,14 +42,14 @@
 
   ##**[ENG]**
 
-  Most, if not all of the Techs I'm learning, I use in freelas and/or own projects. 
-  As well as Startups that I participate or am invited to participate.
-  Self-taught Programmer, but recently i started a Software Engineer degree (2023/1).
+  I am currently focused on learning as much as possible from my current degree. As well as, working in several sectors during my internships and undertaking with my side projects.
+  I'm interested in the areas of Information Security; Decentralized Finance (DeFi); Blockchain (Smart Contracts); A.I.; Games. Most of the techs i'm learning, i used in freelancing and/or own projects.                            
+  Self-taught programmer, but I recently started my degree in Software Engineering (2023/1).
   
   ##**[PT-BR]**
   
-  A maioria das Techs que estou aprendendo, uso em freelas e/ou projetos próprios.
-  Assim como Startups que participo ou sou convidado.
+  Atualmente estou focado em aprender o máximo possível com a minha atual graduação. Assim como, atuar em diversos setores durante meus estágios e empreender com meus *side projects*.
+  Tenho interesse nas áreas de Segurança da Informação; Finanças Descentralizadas (DeFi); Blockchain (*Smart Contracts*); A.I.; Games. A maioria das *techs* que estou aprendendo, uso em *freelas* e/ou projetos próprios.
   Programador autodidata, mas recentemente iniciei a licenciatura em Engenharia de Software (2023/1).
 </details>
 
@@ -65,11 +67,6 @@
      <a href="https://spotify.com"><img title="Spotify" height="30" width="40" src="https://api.iconify.design/logos/spotify-icon.svg?color=white" /></a>
      
 <!--  - Serverles / Cloud Related:
-        
-    <a href="https://planetscale.com/"><img title="PlanetScale" height="30" width="35" src="https://api.iconify.design/skill-icons/planetscale-dark.svg" /></a>
-    <a href="https://redis.io/"><img title="Redis" height="30" width="35" src="https://api.iconify.design/skill-icons/redis-dark.svg" /></a>
-    
-
   - ETC:
 
     <a href="https://authjs.dev/"><img title="Auth.js" height="30" width="28" src="https://authjs.dev/img/logo/logo-sm.webp" /></a>
@@ -82,9 +79,9 @@
 <details>
   <summary>📅 Currently working on / Atualmente trabalhando em:</summary>
   
-  - Startup(s) [1]:
+  - Startup(s) [2]:
 
-    LELA Project
+    LELA Project, XRB
   
   - Site(s) [1]:
 
@@ -95,7 +92,7 @@
 ### 🌱 Frameworks/Linguagens/Techs para projetos futuros
 <div style="display: inline_block;">
 
-  - Serverles / Cloud Related:
+  - Serverless / Cloud Related:
 
     <a href="https://firebase.google.com/"><img title="Firebase" height="30" width="30" src="https://api.iconify.design/vscode-icons/file-type-firebase.svg?color=%236be096" /></a>
     <a href="https://vercel.com/"><img title="Vercel" height="30" width="40" src="https://api.iconify.design/skill-icons/vercel-dark.svg" /></a>
@@ -112,7 +109,7 @@
   - DeFi:
     
     <img alt="Solidity" height="30" width="35" src="https://api.iconify.design/skill-icons/solidity.svg"/>
-    <img alt="Rust" height="30" width="35" src="https://api.iconify.design/skill-icons/rust.svg" />
+    <!-- <img alt="Rust" height="30" width="35" src="https://api.iconify.design/skill-icons/rust.svg" /> -->
     <img alt="Hardhat" height="30" width="35" src="https://api.iconify.design/devicon/hardhat.svg"/>
 
   - Gaming / Engines:
