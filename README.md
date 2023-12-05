@@ -5,7 +5,7 @@
   <a href=""><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-Kaefer&include_all_langs=true&count_private=true"></a>
 </div>-->
 
-### ⚡ Most used techs
+### ⚡ Most Used Techs
 <div alt="Most Used" style="display: inline_block;">
   <a href="https://www.javascript.com/"><img title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
   <a href="https://react.dev"><img title="React" height="30" width="40" src="https://api.iconify.design/skill-icons/react-dark.svg" /></a>
@@ -17,7 +17,7 @@
   <!--<a href="https://www.canva.com"><img alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a>-->
 </div>
 
-### 📝 Currently Learning
+### 📝 Currently Learning / Testing
 <div style="display: inline_block;">
   <a href="https://www.typescriptlang.org"><img title="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
   <a href="https://nextjs.org"><img title="Next.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nextjs-light.svg" /></a>
@@ -33,6 +33,8 @@
   <a href="https://developer.arm.com"><img title="ARM Assembly" height="30" width="40" src="https://api.iconify.design/file-icons/assembly-arm.svg?color=white" /></a>
   <a href="https://github.com/radixdlt/radixdlt-scrypto"><img title="Scrypto" height="30" width="30" src="https://avatars.githubusercontent.com/u/34097377?s=48&amp;v=4" /></a>
   <a href="https://upstash.com/"><img title="Upstash" height="28" width="30" src="https://api.iconify.design/logos/upstash-icon.svg" /></a>
+  <a href="https://radix-ui.com/"><img title="Radix.ui" height="28" width="30" src="https://api.iconify.design/simple-icons/radixui.svg?color=white" /></a>
+  <a href="https://ui.shadcn.com"><img title="Shadcn UI" height="28" width="30" src="https://api.iconify.design/simple-icons/shadcnui.svg?color=white" /></a>
   
   
 </div>
@@ -90,7 +92,7 @@
 </details>
 
 ##
-### 🌱 Frameworks/Linguagens/Techs para projetos futuros
+### 🌱 Frameworks/Linguagens/Techs
 <div style="display: inline_block;">
 
   - Serverless / Cloud Related:
