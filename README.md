@@ -82,9 +82,9 @@
 <details>
   <summary>📅 Currently working on / Atualmente trabalhando em:</summary>
   
-  - Startup(s) [2]:
+  - Startup(s) [3]:
 
-    LELA Project, XRB
+    LELA Project, XRB, N.C.
   
   - Site(s) [1]:
 
