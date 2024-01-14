@@ -108,13 +108,13 @@
     
     <a href="https://pytorch.org/"><img alt="Pytorch" height="30" width="35" src="https://api.iconify.design/skill-icons/pytorch-light.svg" /></a>
     <a href="https://www.tensorflow.org/"><img alt="TensorFlow" height="30" width="35" src="https://api.iconify.design/skill-icons/tensorflow-light.svg" /></a>
-
+<!--
   - DeFi:
     
     <img alt="Solidity" height="30" width="35" src="https://api.iconify.design/skill-icons/solidity.svg"/>
-    <!-- <img alt="Rust" height="30" width="35" src="https://api.iconify.design/skill-icons/rust.svg" /> -->
+    <!-- <img alt="Rust" height="30" width="35" src="https://api.iconify.design/skill-icons/rust.svg" /> --
     <img alt="Hardhat" height="30" width="35" src="https://api.iconify.design/devicon/hardhat.svg"/>
-
+-->
   - Gaming / Engines:
     
     <img alt="Unreal Engine" height="30" width="35" src="https://api.iconify.design/skill-icons/unrealengine.svg"/>
