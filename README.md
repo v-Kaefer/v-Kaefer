@@ -81,14 +81,14 @@
   
   - Startup(s) [3]:
 
-    LELA Project, XRB, N.C.
+    LELA Project, N.C., <span><a href="https://https://github.com/TheRadixHub">The Radix Hub</a></span>
   
   - Site(s) [1]:
 
     MirU
 
   <p align="left"><a href="https://wakatime.com/@018d5f34-df78-4033-a92d-469b799c7aca">
-    <img align="center" width="400" height="300" src="https://wakatime.com/share/@018d5f34-df78-4033-a92d-469b799c7aca/a0d29972-aef0-41ec-8232-17137f753dfd.svg"/>
+    <img align="center" width="auto" height="screen" src="https://wakatime.com/share/@018d5f34-df78-4033-a92d-469b799c7aca/a0d29972-aef0-41ec-8232-17137f753dfd.svg"/>
   </a>
 </details>
 
