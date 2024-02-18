@@ -20,12 +20,10 @@
 ### 📝 Currently Learning / Testing
 <div style="display: inline_block;">
   <a href="https://www.typescriptlang.org"><img title="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-  <a href="https://nextjs.org"><img title="Next.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nextjs-light.svg" /></a>
-  <!--<a href="https://nodejs.org"><img title="Node.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nodejs-light.svg?color=white" /></a>-->
+  <a href="https://nodejs.org"><img title="Node.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nodejs-light.svg?color=white" /></a>
   <a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="30" width="40" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>
-  <a href="https://aws.amazon.com"><img title="AWS" height="30" width="40" src="https://api.iconify.design/skill-icons/aws-light.svg" /></a>
-  <a href="https://planetscale.com"><img title="PlanetScale" height="30" width="40" src="https://api.iconify.design/skill-icons/planetscale-light.svg?color=white" /></a>
   <a href="https://redis.io"><img title="Redis" height="30" width="40" src="https://api.iconify.design/skill-icons/redis-dark.svg" /></a>
+  <a href="https://planetscale.com"><img title="PlanetScale" height="30" width="40" src="https://api.iconify.design/skill-icons/planetscale-light.svg?color=white" /></a>
   <a href="https://www.prisma.io/"><img title="Prisma" height="30" width="40" src="https://api.iconify.design/skill-icons/prisma.svg" /></a>
   <a href="https://trpc.io"><img title="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" /></a>
   <a href="https://www.rust-lang.org"><img title="Rust" height="30" width="40" src="https://api.iconify.design/skill-icons/rust.svg"/></a>
@@ -40,20 +38,19 @@
 </div>
 
 ##
-<details text_color=blue>
+<details>
   <summary>🔍 About me / Sobre mim</summary>
 
   ##**[ENG]**
 
-  I am currently focused on learning as much as possible from my current degree. As well as, working in several sectors during my internships and undertaking with my side projects.
-  I'm interested in the areas of Information Security; Decentralized Finance (DeFi); Blockchain (Smart Contracts); A.I.; Games. Most of the techs i'm learning, i used in freelancing and/or own projects.                            
-  Self-taught programmer, but I recently started my degree in Software Engineering (2023/1).
+  Self-taught programmer, but I recently started my degree in Software Engineering (2023/1). I'm currently focused on learning as much as possible, as well as, working in several sectors during my internships and undertaking with my side projects.
+  I'm most interested in Information Security; Decentralized Finance (DeFi); Blockchain (Smart Contracts); A.I.; Games. Most of the techs i'm learning, i used/use in freelancing and/or own projects.                            
+  
   
   ##**[PT-BR]**
   
-  Atualmente estou focado em aprender o máximo possível com a minha atual graduação. Assim como, atuar em diversos setores durante meus estágios e empreender com meus *side projects*.
-  Tenho interesse nas áreas de Segurança da Informação; Finanças Descentralizadas (DeFi); Blockchain (*Smart Contracts*); A.I.; Games. A maioria das *techs* que estou aprendendo, uso em *freelas* e/ou projetos próprios.
-  Programador autodidata, mas recentemente iniciei a licenciatura em Engenharia de Software (2023/1).
+  Programador autodidata, mas recentemente iniciei a licenciatura em Engenharia de Software (2023/1). Atualmente estou focado em aprender o máximo possível com a minha atual graduação. Assim como, atuar em diversos setores durante meus estágios e empreender com meus *side projects*. Tenho interesse nas áreas de Segurança da Informação; Finanças Descentralizadas (DeFi); Blockchain (*Smart Contracts*); A.I.; Games. A maioria das *techs* que estou aprendendo, uso em *freelas* e/ou projetos próprios.
+  
 </details>
 
 <details>
@@ -64,7 +61,7 @@
      
      <a href="https://code.visualstudio.com/"><img title="VSCode" height="30" width="40" src="https://api.iconify.design/logos/visual-studio-code.svg" /></a>
      <a href="https://desktop.github.com/"><img title="Github Desktop" height="30" width="40" src="https://desktop.github.com/images/desktop-icon.svg" /></a>
-     <a href="https://linear.app/"><img title="Linear App" height="38" width="38" src="https://linear.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FappIcon.8a73aef2.png&w=1080&q=75" /></a>
+     <!--<a href="https://linear.app/"><img title="Linear App" height="38" width="38" src="https://linear.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FappIcon.8a73aef2.png&w=1080&q=75" /></a>-->
      <a href="https://app.eraser.io/"><img title="Eraser.io" height="30" width="40" margin-top="5px" src="https://api.iconify.design/logos/eraser-icon.svg?color=%236be096" /></a>
      <a href="https://obsidian.md"><img title="Obsidian" height="30" width="40" src="https://api.iconify.design/logos/obsidian-icon.svg?color=white" /></a>
      <a href="https://spotify.com"><img title="Spotify" height="30" width="40" src="https://api.iconify.design/logos/spotify-icon.svg?color=white" /></a>
@@ -89,6 +86,11 @@
   - Site(s) [1]:
 
     MirU
+
+  <p align="center"><a href="https://wakatime.com/@christitustech">
+    <img align="center" width="400" height="300" src="https://wakatime.com/share/@christitustech/4c17a227-eb23-48c5-a2f1-492e5538842c.svg" />
+  </a>
+    
 </details>
 
 ##
@@ -100,6 +102,7 @@
     <a href="https://firebase.google.com/"><img title="Firebase" height="30" width="30" src="https://api.iconify.design/vscode-icons/file-type-firebase.svg?color=%236be096" /></a>
     <a href="https://vercel.com/"><img title="Vercel" height="30" width="40" src="https://api.iconify.design/skill-icons/vercel-dark.svg" /></a>
     <a href="https://cloud.google.com"><img alt="Google Cloud" height="30" width="40" src="https://api.iconify.design/devicon/googlecloud.svg" /></a>
+    <a href="https://aws.amazon.com"><img title="AWS" height="30" width="40" src="https://api.iconify.design/skill-icons/aws-light.svg" /></a>
     <a href="https://redux.js.org/"><img alt="Redux" height="30" width="35" src="https://api.iconify.design/skill-icons/redux.svg" /></a>
     <a href="https://axiom.co/"><img bg-color="white" alt="Axiom" height="30" width="30" src="https://avatars.githubusercontent.com/u/21122348?s=200&v=4" /></a>
     <a href="https://www.terraform.io/"><img alt="Terraform" height="30" width="35" src="https://api.iconify.design/devicon/terraform.svg" /></a>
@@ -122,12 +125,13 @@
 
   - ETC:
 
-    <a href="https://turbo.build/"><img alt="Turborepo" height="30" width="30" src="https://api.iconify.design/simple-icons/turborepo.svg?color=white" /></a>
-    <a href="https://uptime.kuma.pet/"><img alt="Uptime Kuma" height="30" width="35" src="https://api.iconify.design/simple-icons/uptimekuma.svg?color=%236be096" /></a>
+    <a href="https://nextjs.org"><img title="Next.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nextjs-light.svg" /></a>
     <a href="https://www.python.org"><img title="Python" height="30" width="40" src="https://api.iconify.design/skill-icons/python-light.svg" /></a>
     <a href="https://astro.build"><img title="Astro" height="30" width="40" src="https://api.iconify.design/skill-icons/astro.svg" /></a>
     <a href="https://svelte.dev"><img title="Svelte" height="30" width="40" src="https://api.iconify.design/skill-icons/svelte.svg" /></a>
     <a href="https://graphql.org"><img title="GraphQL" height="30" width="40" src="https://api.iconify.design/skill-icons/graphql-dark.svg" /></a>
+    <a href="https://turbo.build/"><img alt="Turborepo" height="30" width="30" src="https://api.iconify.design/simple-icons/turborepo.svg?color=white" /></a>
+    <a href="https://uptime.kuma.pet/"><img alt="Uptime Kuma" height="30" width="35" src="https://api.iconify.design/simple-icons/uptimekuma.svg?color=%236be096" /></a>
     
 </div>
 
@@ -154,7 +158,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <img alt="Discord" align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
