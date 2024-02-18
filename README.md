@@ -87,10 +87,9 @@
 
     MirU
 
-  <p align="center"><a href="https://wakatime.com/@christitustech">
-    <img align="center" width="400" height="300" src="https://wakatime.com/share/@christitustech/4c17a227-eb23-48c5-a2f1-492e5538842c.svg" />
+  <p align="left"><a href="https://wakatime.com/@018d5f34-df78-4033-a92d-469b799c7aca">
+    <img align="center" width="400" height="300" src="https://wakatime.com/share/@018d5f34-df78-4033-a92d-469b799c7aca/a0d29972-aef0-41ec-8232-17137f753dfd.svg"/>
   </a>
-    
 </details>
 
 ##
