@@ -1,8 +1,9 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=v-Kaefer&theme=github-compact&height=350&width=400&hide_border=true&hide_title=true)
-<p align="auto" justify-content="between"><a href="https://wakatime.com/@018d5f34-df78-4033-a92d-469b799c7aca">
-    <img align="center" width="auto" height="325" src="https://wakatime.com/share/@018d5f34-df78-4033-a92d-469b799c7aca/461063f7-1fc2-4a1c-8970-f50a71b8f03a.svg"/>
-    <img align="center" width="auto" height="325" src="https://wakatime.com/share/@018d5f34-df78-4033-a92d-469b799c7aca/56e43179-79e3-40bd-b47a-419a08239d55.svg"/>
-  </a>
+<p align="auto">
+    <a href="https://wakatime.com/@018d5f34-df78-4033-a92d-469b799c7aca" justify-content="between">
+        <img align="center" width="auto" height="325" src="https://wakatime.com/share/@018d5f34-df78-4033-a92d-469b799c7aca/461063f7-1fc2-4a1c-8970-f50a71b8f03a.svg"/>
+        <img align="center" width="auto" height="325" src="https://wakatime.com/share/@018d5f34-df78-4033-a92d-469b799c7aca/56e43179-79e3-40bd-b47a-419a08239d55.svg"/>
+    </a>
 </p>
 <!--<div>
   <a href=""><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=v-Kaefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a><a href=""><img title="" height="30" width="40" src="" /></a>
