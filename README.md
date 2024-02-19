@@ -1,5 +1,9 @@
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=v-Kaefer&theme=github-compact&height=350&hide_border=true&hide_title=true)
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=v-Kaefer&theme=github-compact&height=350&width=400&hide_border=true&hide_title=true)
+<p align="auto" justify-content="between"><a href="https://wakatime.com/@018d5f34-df78-4033-a92d-469b799c7aca">
+    <img align="center" width="auto" height="350" src="https://wakatime.com/share/@018d5f34-df78-4033-a92d-469b799c7aca/461063f7-1fc2-4a1c-8970-f50a71b8f03a.svg"/>
+    <img align="center" width="auto" height="350" src="https://wakatime.com/share/@018d5f34-df78-4033-a92d-469b799c7aca/56e43179-79e3-40bd-b47a-419a08239d55.svg"/>
+  </a>
+</p>
 <!--<div>
   <a href=""><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=v-Kaefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a><a href=""><img title="" height="30" width="40" src="" /></a>
   <a href=""><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-Kaefer&include_all_langs=true&count_private=true"></a>
@@ -61,10 +65,10 @@
      
      <a href="https://code.visualstudio.com/"><img title="VSCode" height="30" width="40" src="https://api.iconify.design/logos/visual-studio-code.svg" /></a>
      <a href="https://desktop.github.com/"><img title="Github Desktop" height="30" width="40" src="https://desktop.github.com/images/desktop-icon.svg" /></a>
-     <!--<a href="https://linear.app/"><img title="Linear App" height="38" width="38" src="https://linear.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FappIcon.8a73aef2.png&w=1080&q=75" /></a>-->
      <a href="https://app.eraser.io/"><img title="Eraser.io" height="30" width="40" margin-top="5px" src="https://api.iconify.design/logos/eraser-icon.svg?color=%236be096" /></a>
      <a href="https://obsidian.md"><img title="Obsidian" height="30" width="40" src="https://api.iconify.design/logos/obsidian-icon.svg?color=white" /></a>
      <a href="https://spotify.com"><img title="Spotify" height="30" width="40" src="https://api.iconify.design/logos/spotify-icon.svg?color=white" /></a>
+     <!--<a href="https://linear.app/"><img title="Linear App" height="38" width="38" src="https://linear.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FappIcon.8a73aef2.png&w=1080&q=75" /></a>-->
      
 <!--  - Serverles / Cloud Related:
   - ETC:
@@ -79,7 +83,7 @@
 <details>
   <summary>📅 Currently working on / Atualmente trabalhando em:</summary>
   
-  - Startup(s) [3]:
+  - Startup(s) / DAO(s) [3]:
 
     LELA Project, N.C., <span><a href="https://https://github.com/TheRadixHub">The Radix Hub</a></span>
   
@@ -87,9 +91,7 @@
 
     MirU
 
-  <p align="left"><a href="https://wakatime.com/@018d5f34-df78-4033-a92d-469b799c7aca">
-    <img align="center" width="auto" height="screen" src="https://wakatime.com/share/@018d5f34-df78-4033-a92d-469b799c7aca/a0d29972-aef0-41ec-8232-17137f753dfd.svg"/>
-  </a>
+  
 </details>
 
 ##
