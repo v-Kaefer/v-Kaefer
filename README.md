@@ -28,8 +28,7 @@
   <a href="https://nodejs.org"><img title="Node.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nodejs-light.svg?color=white" /></a>
   <a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="30" width="40" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>
   <a href="https://redis.io"><img title="Redis" height="30" width="40" src="https://api.iconify.design/skill-icons/redis-dark.svg" /></a>
-  <a href="https://planetscale.com"><img title="PlanetScale" height="30" width="40" src="https://api.iconify.design/skill-icons/planetscale-light.svg?color=white" /></a>
-  <a href="https://www.prisma.io/"><img title="Prisma" height="30" width="40" src="https://api.iconify.design/skill-icons/prisma.svg" /></a>
+  <a href="https://neon.tech"><img title="Neon" height="30" width="40" padding-right="60" src="https://neon.tech/_next/static/svgs/e9de8fc7653111a1423e0d227c0c5e9f.svg" /></svg></a>
   <a href="https://trpc.io"><img title="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" /></a>
   <a href="https://www.rust-lang.org"><img title="Rust" height="30" width="40" src="https://api.iconify.design/skill-icons/rust.svg"/></a>
   <a href="https://www.webassembly.org"><img title="WebAssembly" height="30" width="40" src="https://api.iconify.design/skill-icons/webassembly.svg"/></a>
@@ -101,13 +100,12 @@
 
   - Serverless / Cloud Related:
 
-    <a href="https://firebase.google.com/"><img title="Firebase" height="30" width="30" src="https://api.iconify.design/vscode-icons/file-type-firebase.svg?color=%236be096" /></a>
     <a href="https://vercel.com/"><img title="Vercel" height="30" width="40" src="https://api.iconify.design/skill-icons/vercel-dark.svg" /></a>
-    <a href="https://cloud.google.com"><img alt="Google Cloud" height="30" width="40" src="https://api.iconify.design/devicon/googlecloud.svg" /></a>
-    <a href="https://aws.amazon.com"><img title="AWS" height="30" width="40" src="https://api.iconify.design/skill-icons/aws-light.svg" /></a>
     <a href="https://redux.js.org/"><img alt="Redux" height="30" width="35" src="https://api.iconify.design/skill-icons/redux.svg" /></a>
+    <a href="https://railway.app"><img title="Railway" height="30" width="40" src="https://railway.app/brand/logo-light.svg" /></svg></a>
     <a href="https://axiom.co/"><img bg-color="white" alt="Axiom" height="30" width="30" src="https://avatars.githubusercontent.com/u/21122348?s=200&v=4" /></a>
     <a href="https://www.terraform.io/"><img alt="Terraform" height="30" width="35" src="https://api.iconify.design/devicon/terraform.svg" /></a>
+    <a href="https://uptime.kuma.pet/"><img alt="Uptime Kuma" height="30" width="35" src="https://api.iconify.design/simple-icons/uptimekuma.svg?color=%236be096" /></a>
         
   - A.I.:
     
@@ -131,9 +129,9 @@
     <a href="https://www.python.org"><img title="Python" height="30" width="40" src="https://api.iconify.design/skill-icons/python-light.svg" /></a>
     <a href="https://astro.build"><img title="Astro" height="30" width="40" src="https://api.iconify.design/skill-icons/astro.svg" /></a>
     <a href="https://svelte.dev"><img title="Svelte" height="30" width="40" src="https://api.iconify.design/skill-icons/svelte.svg" /></a>
+    <a href="https://www.prisma.io/"><img title="Prisma" height="30" width="40" src="https://api.iconify.design/skill-icons/prisma.svg" /></a>
     <a href="https://graphql.org"><img title="GraphQL" height="30" width="40" src="https://api.iconify.design/skill-icons/graphql-dark.svg" /></a>
     <a href="https://turbo.build/"><img alt="Turborepo" height="30" width="30" src="https://api.iconify.design/simple-icons/turborepo.svg?color=white" /></a>
-    <a href="https://uptime.kuma.pet/"><img alt="Uptime Kuma" height="30" width="35" src="https://api.iconify.design/simple-icons/uptimekuma.svg?color=%236be096" /></a>
     
 </div>
 
