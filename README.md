@@ -17,7 +17,7 @@
   <a href="https://www.java.com"><img title="JAVA" height="30" width="40" src="https://api.iconify.design/skill-icons/java-light.svg?color=white" /></a>
   <a href="https://vitejs.dev"><img title="Vite"  height="30" width="40" src="https://api.iconify.design/skill-icons/vite-dark.svg"/></a>
   <a href="https://tailwindcss.com"><img title="Tailwind" height="30" width="40" src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" /></a>
-  <a href="https://sass-lang.com"><img title="SASS" height="30" width="40" src="https://api.iconify.design/skill-icons/sass.svg" /></a>
+  <!--<a href="https://sass-lang.com"><img title="SASS" height="30" width="40" src="https://api.iconify.design/skill-icons/sass.svg" /></a>-->
   <a href="https://www.figma.com"><img title="Figma" height="30" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
   <!--<a href="https://www.canva.com"><img alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a>-->
 </div>
