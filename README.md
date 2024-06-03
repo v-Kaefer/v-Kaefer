@@ -54,7 +54,7 @@
   
   ##**[PT-BR]**
   
-  Programador autodidata, mas recentemente iniciei a licenciatura em Engenharia de Software (2023/1). Atualmente estou focado em aprender o máximo possível com a minha atual graduação. Assim como, atuar em diversos setores durante meus estágios e empreender com meus *side projects*. Tenho interesse nas áreas de Segurança da Informação; Finanças Descentralizadas (DeFi); Blockchain (*Smart Contracts*); A.I.; Games. A maioria das *techs* que estou aprendendo, uso em *freelas* e/ou projetos próprios.
+  Programador autodidata, mas recentemente iniciei o bacharelado em Engenharia de Software (2023/1). Atualmente estou focado em aprender o máximo possível com a minha atual graduação. Assim como, atuar em diversos setores durante meus estágios e empreender com meus *side projects*. Tenho interesse nas áreas de Segurança da Informação; Finanças Descentralizadas (DeFi); Blockchain (*Smart Contracts*); A.I.; Games. A maioria das *techs* que estou aprendendo, uso em *freelas* e/ou projetos próprios.
   
 </details>
 
