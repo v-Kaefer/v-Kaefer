@@ -28,8 +28,8 @@
   <a href="https://www.typescriptlang.org"><img title="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
   <a href="https://nodejs.org"><img title="Node.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nodejs-light.svg?color=white" /></a>
   <a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="30" width="40" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>
-  <a href="https://redis.io"><img title="Redis" height="30" width="40" src="https://api.iconify.design/skill-icons/redis-dark.svg" /></a>
-  <a href="https://trpc.io"><img title="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" /></a>
+  <!--<a href="https://redis.io"><img title="Redis" height="30" width="40" src="https://api.iconify.design/skill-icons/redis-dark.svg" /></a>-->
+  <!--<a href="https://trpc.io"><img title="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" /></a>-->
   <a href="https://www.rust-lang.org"><img title="Rust" height="30" width="40" src="https://api.iconify.design/skill-icons/rust.svg"/></a>
   <a href="https://github.com/radixdlt/radixdlt-scrypto"><img title="Scrypto" height="30" width="30" src="https://avatars.githubusercontent.com/u/34097377?s=48&amp;v=4" /></a>
   <a href="https://radix-ui.com/"><img title="Radix.ui" height="28" width="30" src="https://api.iconify.design/simple-icons/radixui.svg?color=white" /></a>
@@ -93,6 +93,7 @@
     -->
     
 ##
+<!--
 ### 🌱 Frameworks/Linguagens/Techs
 <div style="display: inline_block;">
 
@@ -100,9 +101,9 @@
 
     <a href="https://vercel.com/"><img title="Vercel" height="30" width="40" src="https://api.iconify.design/skill-icons/vercel-dark.svg" /></a>
     <a href="https://redux.js.org/"><img alt="Redux" height="30" width="35" src="https://api.iconify.design/skill-icons/redux.svg" /></a>
-    <a href="https://railway.app"><img title="Railway" height="30" width="40" src="https://railway.app/brand/logo-light.svg" /></svg></a>
-    <a href="https://axiom.co/"><img bg-color="white" alt="Axiom" height="30" width="30" src="https://avatars.githubusercontent.com/u/21122348?s=200&v=4" /></a>
-    <a href="https://www.terraform.io/"><img alt="Terraform" height="30" width="35" src="https://api.iconify.design/devicon/terraform.svg" /></a>
+    <!--<a href="https://railway.app"><img title="Railway" height="30" width="40" src="https://railway.app/brand/logo-light.svg" /></svg></a>
+    <!--<a href="https://axiom.co/"><img bg-color="white" alt="Axiom" height="30" width="30" src="https://avatars.githubusercontent.com/u/21122348?s=200&v=4" /></a>
+    <!--<a href="https://www.terraform.io/"><img alt="Terraform" height="30" width="35" src="https://api.iconify.design/devicon/terraform.svg" /></a>
     <a href="https://uptime.kuma.pet/"><img alt="Uptime Kuma" height="30" width="35" src="https://api.iconify.design/simple-icons/uptimekuma.svg?color=%236be096" /></a>
     <a href="https://upstash.com/"><img title="Upstash" height="28" width="30" src="https://api.iconify.design/logos/upstash-icon.svg" /></a>
         
@@ -110,13 +111,13 @@
     
     <a href="https://pytorch.org/"><img alt="Pytorch" height="30" width="35" src="https://api.iconify.design/skill-icons/pytorch-light.svg" /></a>
     <a href="https://www.tensorflow.org/"><img alt="TensorFlow" height="30" width="35" src="https://api.iconify.design/skill-icons/tensorflow-light.svg" /></a>
-<!--
+
   - DeFi:
     
     <img alt="Solidity" height="30" width="35" src="https://api.iconify.design/skill-icons/solidity.svg"/>
     <!-- <img alt="Rust" height="30" width="35" src="https://api.iconify.design/skill-icons/rust.svg" /> --
     <img alt="Hardhat" height="30" width="35" src="https://api.iconify.design/devicon/hardhat.svg"/>
--->
+
   - Gaming / Engines:
     
     <img alt="Unreal Engine" height="30" width="35" src="https://api.iconify.design/skill-icons/unrealengine.svg"/>
