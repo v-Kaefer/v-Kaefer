@@ -16,27 +16,27 @@
   <a href="https://www.java.com"><img title="Java" height="40" width="40" src="https://api.iconify.design/skill-icons/java-light.svg?color=white"/></a>
   <a href="https://www.javascript.com/"><img title="JavaScript" height="40" width="40" src="https://api.iconify.design/skill-icons/javascript.svg"/></a>
   <a href="https://www.typescriptlang.org"><img title="Typescript" height="40" width="40" src="https://api.iconify.design/skill-icons/typescript.svg" /></a>
-  <!--<a href="https://tauri.app"><img title="Tauri" height="40" width="40" src="https://api.iconify.design/skill-icons/tauri-light.svg" /></a>-->
   <a href="https://tailwindcss.com"><img title="Tailwind" height="40" width="40" src="https://api.iconify.design/skill-icons/tailwindcss-light.svg" /></a>
   <a href="https://vitejs.dev"><img title="Vite"  height="40" width="40" src="https://api.iconify.design/skill-icons/vite-light.svg"/></a>
-  <a href=""><img title="Docker" height="40" width="40" src="https://api.iconify.design/skill-icons/docker.svg" /></a></a>
-  <a href=""><img title="Figma" height="40" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
+  <a href="https://docker.com"><img title="Docker" height="40" width="40" src="https://api.iconify.design/skill-icons/docker.svg" /></a></a>
+  <a href="https://figma.com"><img title="Figma" height="40" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
 </div>
 
 #### 📝 Currently Learning / Testing
 <div style="display: inline_block;">
-  <a href=""><img title="Angular" height="40" width="40" src="https://api.iconify.design/streamline-logos/angular-logo-block.svg?color=red" /></a></a>
-  <a href=""><img title="Amazon Web Services" height="40" width="40" src="https://api.iconify.design/streamline-logos/amazon-web-service-logo-block.svg?color=darkorange" /></a></a>
-  <a href=""><img title="Terraform"  height="40" width="40" src="https://api.iconify.design/skill-icons/terraform-light.svg"/></a>
-  <a href=""><img title="Proxmox" height="40" width="40" src="https://api.iconify.design/streamline-logos/proxmox-logo-block.svg?color=orange" /></a></a>
+  <a href="https://angular.dev"><img title="Angular" height="40" width="40" src="https://api.iconify.design/streamline-logos/angular-logo-block.svg?color=red" /></a></a>
+  <a href="https://aws.amazon.com"><img title="Amazon Web Services" height="40" width="40" src="https://api.iconify.design/streamline-logos/amazon-web-service-logo-block.svg?color=darkorange" /></a></a>
+  <a href="https://developer.hashicorp.com/terraform"><img title="Terraform"  height="40" width="40" src="https://api.iconify.design/skill-icons/terraform-light.svg"/></a>
+  <a href="https://www.proxmox.com/en/"><img title="Proxmox" height="40" width="40" src="https://api.iconify.design/streamline-logos/proxmox-logo-block.svg?color=orange" /></a></a>
   <!--<a href="https://auth0.com/"><img title="Auth0" height="30" width="35" src="https://api.iconify.design/cib/auth0.svg?color=white" /></a>-->
   <a href="https://www.python.org"><img title="Python" height="40" width="40" src="https://api.iconify.design/skill-icons/python-light.svg" /></a>
-  <!--<a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="30" width="36" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>-->
+  <a href="https://tauri.app"><img title="Tauri" height="40" width="40" src="https://api.iconify.design/skill-icons/tauri-light.svg" /></a>
+  <a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="30" width="36" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>
   <!--<a href="https://trpc.io"><img title="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" /></a>-->
-  <a href=""><img title="Golang" height="40" width="40" src="https://api.iconify.design/skill-icons/golang.svg"/></a>
+  <a href="https://go.dev"><img title="Golang" height="40" width="40" src="https://api.iconify.design/skill-icons/golang.svg"/></a>
   <a href="https://www.python.org"><img title="Godot" height="40" width="40" src="https://api.iconify.design/skill-icons/godot-light.svg" /></a>
   <a href="https://www.rust-lang.org"><img title="Rust" height="40" width="40" src="https://api.iconify.design/skill-icons/rust.svg"/></a>
-  <a href=""><img title="Bun" height="40" width="40" src="https://api.iconify.design/skill-icons/bun-light.svg"/></a>
+  <a href="https://bun.sh"><img title="Bun" height="40" width="40" src="https://api.iconify.design/skill-icons/bun-light.svg"/></a>
   <a href="https://github.com/radixdlt/radixdlt-scrypto"><img title="Scrypto" height="40" width="40" src="https://avatars.githubusercontent.com/u/34097377?s=48&amp;v=4" /></a>
   <!--<a href="https://zardui.com"><img title="ZardUI" height="40" width="40" src="https://github.com/zard-ui/zardui/blob/master/apps/web/public/images/logo.png" /></a>-->
   
