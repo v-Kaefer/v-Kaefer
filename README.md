@@ -12,31 +12,46 @@
 
 ### ⚡ Most Used Techs
 <div alt="Most Used" style="display: inline_block;">
-  <a href="https://www.java.com"><img title="Java" height="30" width="36" src="https://api.iconify.design/skill-icons/java-light.svg?color=white"/></a>
-  <!--<a href="https://www.javascript.com/"><img title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>-->
-  <a href="https://tauri.app"><img title="Tauri" height="30" width="36" src="https://api.iconify.design/skill-icons/tauri-light.svg" /></a>
-  <a href="https://vitejs.dev"><img title="Vite"  height="30" width="36" src="https://api.iconify.design/skill-icons/vite-dark.svg"/></a>
-  <a href="https://react.dev"><img title="React" height="30" width="36" src="https://api.iconify.design/skill-icons/react-dark.svg" /></a>
-  <a href="https://tailwindcss.com"><img title="Tailwind" height="30" width="36" src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg" /></a>
+  <a href="https://pnpm.io"><img title="PNPM" height="40" width="40" src="https://api.iconify.design/skill-icons/pnpm-light.svg"/></a>
+  <a href="https://www.java.com"><img title="Java" height="40" width="40" src="https://api.iconify.design/skill-icons/java-light.svg?color=white"/></a>
+  <a href="https://www.javascript.com/"><img title="JavaScript" height="40" width="40" src="https://api.iconify.design/skill-icons/javascript.svg"/></a>
+  <a href="https://www.typescriptlang.org"><img title="Typescript" height="40" width="40" src="https://api.iconify.design/skill-icons/typescript.svg" /></a>
+  <a href="https://tailwindcss.com"><img title="Tailwind" height="40" width="40" src="https://api.iconify.design/skill-icons/tailwindcss-light.svg" /></a>
+  <a href="https://vitejs.dev"><img title="Vite"  height="40" width="40" src="https://api.iconify.design/skill-icons/vite-light.svg"/></a>
+  <a href="https://docker.com"><img title="Docker" height="40" width="40" src="https://api.iconify.design/skill-icons/docker.svg" /></a></a>
+  <a href="https://figma.com"><img title="Figma" height="40" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
 </div>
 
 #### 📝 Currently Learning / Testing
-<div style="display: inline_block;">
-  <a href="https://www.typescriptlang.org"><img title="Typescript" height="30" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-  <a href="https://auth0.com/"><img title="Auth0" height="30" width="35" src="https://api.iconify.design/cib/auth0.svg?color=white" /></a>
-  <a href="https://www.python.org"><img title="Python" height="30" width="40" src="https://api.iconify.design/skill-icons/python-light.svg" /></a>
-  <!--<a href="https://nodejs.org"><img title="Node.js" height="30" width="36" src="https://api.iconify.design/skill-icons/nodejs-light.svg?color=white" /></a>-->
-  <!--<a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="30" width="36" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>-->
+<div alt="Testing" style="display: inline_block;">
+  <a href="https://angular.dev"><img title="Angular" height="40" width="40" src="https://api.iconify.design/streamline-logos/angular-logo-block.svg?color=red"/></a>
+  <a href="https://aws.amazon.com"><img title="Amazon Web Services" height="40" width="40" src="https://api.iconify.design/streamline-logos/amazon-web-service-logo-block.svg?color=darkorange" /></a>
+  <a href="https://developer.hashicorp.com/terraform"><img title="Terraform"  height="40" width="40" src="https://api.iconify.design/skill-icons/terraform-light.svg"/></a>
+  <a href="https://www.proxmox.com/en/"><img title="Proxmox" height="40" width="40" src="https://api.iconify.design/streamline-logos/proxmox-logo-block.svg?color=orange" /></a>
+  <a href="https://www.python.org"><img title="Python" height="40" width="40" src="https://api.iconify.design/skill-icons/python-light.svg" /></a>
+  <a href="https://tauri.app"><img title="Tauri" height="40" width="40" src="https://api.iconify.design/skill-icons/tauri-light.svg" /></a>
+  <a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="40" width="40" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>
   <!--<a href="https://trpc.io"><img title="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" /></a>-->
-  <a href="https://www.rust-lang.org"><img title="Rust" height="30" width="36" src="https://api.iconify.design/skill-icons/rust.svg"/></a>
-  <a href="https://github.com/radixdlt/radixdlt-scrypto"><img title="Scrypto" height="30" width="30" src="https://avatars.githubusercontent.com/u/34097377?s=48&amp;v=4" /></a>
-  <a href="https://radix-ui.com/"><img title="Radix.ui" height="28" width="30" src="https://api.iconify.design/simple-icons/radixui.svg?color=white" /></a>
-  <a href="https://ui.shadcn.com"><img title="Shadcn UI" height="28" width="30" src="https://api.iconify.design/simple-icons/shadcnui.svg?color=white" /></a>
-  
-  
+  <a href="https://go.dev"><img title="Golang" height="40" width="40" src="https://api.iconify.design/skill-icons/golang.svg"/></a>
+  <a href="https://godotengine.org"><img title="Godot" height="40" width="40" src="https://api.iconify.design/skill-icons/godot-light.svg" /></a>
+  <a href="https://www.rust-lang.org"><img title="Rust" height="40" width="40" src="https://api.iconify.design/skill-icons/rust.svg"/></a>
+  <a href="https://bun.sh"><img title="Bun" height="40" width="40" src="https://api.iconify.design/skill-icons/bun-light.svg"/></a>
+  <a href="https://github.com/radixdlt/radixdlt-scrypto"><img title="Scrypto" height="40" width="40" src="https://avatars.githubusercontent.com/u/34097377?s=48&amp;v=4" /></a>
+  <a href="https://draw.io"><img title="Draw.io" height="40" width="40" src="https://api.iconify.design/vscode-icons/file-type-drawio.svg" /></a>
+  <!--<a href="https://zardui.com"><img title="ZardUI" height="40" width="40" src="https://github.com/zard-ui/zardui/blob/master/apps/web/public/images/logo.png" /></a>-->
 </div>
 
-##
+#
+### Daily Workflow
+<div alt="Workflow" style="display: inline-flex; vertical-align: center;">
+    <a href="https://code.visualstudio.com/"><img title="VSCode" height="40" width="40" src="https://api.iconify.design/skill-icons/vscode-light.svg" /></a>
+    <a href="https://anytype.io"><img title="Anytype" height="40" width="40" src="https://api.iconify.design/simple-icons/anytype.svg?color=white" /></a>
+    <a href="https://spotify.com"><img title="Spotify" height="42" width="42" src="https://api.iconify.design/streamline-logos/spotify-logo-block.svg?color=green" /></a></a>
+    <a href="https://desktop.github.com/"><img title="Github Desktop" height="40" src="https://github.com/desktop/desktop/blob/development/app/static/logos/icon-logo.ico" /></a>
+    <a href="https://wakatime.com"><img title="Wakatime" height="38" width="40" src="https://api.iconify.design/simple-icons/wakatime.svg?color=white" /></a>
+    <a href="https://endeavouros.com"><img title="EndeavourOS" height="40" width="40" src="https://api.iconify.design/simple-icons/endeavouros.svg?color=purple" /></a>
+    <a href="https://app.eraser.io/"><img title="Eraser.io" height="40" width="40" src="https://api.iconify.design/logos/eraser-icon.svg" /></a>
+</div>
 <details>
   <summary>💬 About me / Sobre mim</summary>
 
@@ -48,104 +63,28 @@
   
   #### **[PT-BR]**
   
-  Programador autodidata, mas recentemente iniciei o bacharelado em Engenharia de Software (2023/1). Atualmente estou focado em aprender o máximo possível com a minha atual graduação. Assim como, atuar em diversos setores durante meus estágios e empreender com meus *side projects*. Tenho interesse nas áreas de Segurança da Informação; Finanças Descentralizadas (DeFi); Blockchain (*Smart Contracts*); A.I.; Games. A maioria das *techs* que estou aprendendo, uso em *freelas* e/ou projetos próprios.
-  
+  Programador autodidata. Cursando bacharelado em Engenharia de Software (2023/1). Atualmente estou focado em aprender o máximo possível da base da minha área. Assim como, atuar em diversos setores durante meus estágios e empreender com meus outros projetos. Tenho interesse nas áreas de Segurança da Informação; Blockchain (*Smart Contracts*); A.I.; Games etc. A maioria das *techs* que estou aprendendo, uso em *freelas* e/ou projetos próprios.
+
 </details>
 
-###   Workflow:
-<a href="https://code.visualstudio.com/"><img title="VSCode" height="30" width="36" src="https://api.iconify.design/skill-icons/vscode-light.svg" /></a> <!-- <span href="https://desktop.github.com/"><img title="Github Desktop" height="36" src="https://images.icon-icons.com/3053/PNG/512/github_alt_macos_bigsur_icon_190138.png" /></span>
-<span href="https://anytype.io"><img title="Anytype" height="36" src="https://github.com/anyproto/anytype-ts/blob/main/src/img/logo/symbol.png" /></span>
-<span href="https://draw.io"><img title="Draw.io" height="30" width="40" src="https://api.iconify.design/vscode-icons/file-type-drawio.svg" /></span>
---><a href="https://spotify.com"><img title="Spotify" height="30" width="36" src="https://api.iconify.design/logos/spotify-icon.svg?color=white" /></a>
-<a href="https://wakatime.com"><img title="Wakatime" height="30" width="36" src="https://api.iconify.design/simple-icons/wakatime.svg?color=white" /></a>
-<a href="https://app.eraser.io/"><img title="Eraser.io" height="30" width="40" margin-top="5px" src="https://api.iconify.design/logos/eraser-icon.svg?color=%236be096" /></a>
-<a href="https://endeavouros.com"><img title="EndeavourOS" height="30" width="30" margin-top="5px" src="https://raw.githubusercontent.com/endeavouros-team/Branding/d69f384c95d98a6e40e0c09360f1777566bcace1/EndeavourOS-logo-files/endeavouros-logo-sans-logotype.png" /></a>
-<!--<a href="https://linear.app/"><img title="Linear App" height="38" width="38" src="https://linear.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FappIcon.8a73aef2.png&w=1080&q=75" /></a>-->
-
-
-<!--  - Serverles / Cloud Related:
-  - ETC:
-    <a href="https://authjs.dev/"><img title="Auth.js" height="30" width="28" src="https://authjs.dev/img/logo/logo-sm.webp" /></a>
-    <a href="https://www.hotjar.com/"><img title="Hotjar" height="30" width="35" src="https://api.iconify.design/logos/hotjar-icon.svg?color=%236be096" /></a>
-  </div>
-
-<details>
-  <summary>📅 Currently working on / Atualmente trabalhando em:</summary>
-  
-  - Startup(s) / DAO(s) [3]:
-
-    LELA Project, N.C., <span><a href="https://https://github.com/TheRadixHub">The Radix Hub</a></span>
-  
-  - Site(s) [1]:
-
-    MirU
-
-  
-</details>
-    -->
-    
-##
 <!--
 ### 🌱 Frameworks/Linguagens/Techs
-<div style="display: inline_block;">
 
-  - Serverless / Cloud Related:
-
-    <a href="https://vercel.com/"><img title="Vercel" height="30" width="40" src="https://api.iconify.design/skill-icons/vercel-dark.svg" /></a>
     <a href="https://redux.js.org/"><img alt="Redux" height="30" width="35" src="https://api.iconify.design/skill-icons/redux.svg" /></a>
-    <!--<a href="https://railway.app"><img title="Railway" height="30" width="40" src="https://railway.app/brand/logo-light.svg" /></svg></a>
     <!--<a href="https://axiom.co"><img bg-color="white" alt="Axiom" height="30" width="30" src="https://avatars.githubusercontent.com/u/21122348?s=200&v=4" /></a>
-    <!--<a href="https://www.terraform.io/"><img alt="Terraform" height="30" width="35" src="https://api.iconify.design/devicon/terraform.svg" /></a>
     <a href="https://uptime.kuma.pet/"><img alt="Uptime Kuma" height="30" width="35" src="https://api.iconify.design/simple-icons/uptimekuma.svg?color=%236be096" /></a>
     <a href="https://upstash.com/"><img title="Upstash" height="28" width="30" src="https://api.iconify.design/logos/upstash-icon.svg" /></a>
-        
-  - A.I.:
-    
-    <a href="https://pytorch.org/"><img alt="Pytorch" height="30" width="35" src="https://api.iconify.design/skill-icons/pytorch-light.svg" /></a>
-    <a href="https://www.tensorflow.org/"><img alt="TensorFlow" height="30" width="35" src="https://api.iconify.design/skill-icons/tensorflow-light.svg" /></a>
-
-  - DeFi:
-    
-    <img alt="Solidity" height="30" width="35" src="https://api.iconify.design/skill-icons/solidity.svg"/>
-    <!-- <img alt="Rust" height="30" width="35" src="https://api.iconify.design/skill-icons/rust.svg" /> --
-    <img alt="Hardhat" height="30" width="35" src="https://api.iconify.design/devicon/hardhat.svg"/>
-
-  - Gaming / Engines:
-    
-    <img alt="Unreal Engine" height="30" width="35" src="https://api.iconify.design/skill-icons/unrealengine.svg"/>
-    <img alt="Godot" height="30" width="35" src="https://api.iconify.design/skill-icons/godot-light.svg"/>
-
-  - ETC:
-
-    <a href="https://nextjs.org"><img title="Next.js" height="30" width="40" src="https://api.iconify.design/skill-icons/nextjs-light.svg" /></a>
-    <a href="https://astro.build"><img title="Astro" height="30" width="40" src="https://api.iconify.design/skill-icons/astro.svg" /></a>
-    <a href="https://svelte.dev"><img title="Svelte" height="30" width="40" src="https://api.iconify.design/skill-icons/svelte.svg" /></a>
     <a href="https://www.prisma.io/"><img title="Prisma" height="30" width="40" src="https://api.iconify.design/skill-icons/prisma.svg" /></a>
     <a href="https://graphql.org"><img title="GraphQL" height="30" width="40" src="https://api.iconify.design/skill-icons/graphql-dark.svg" /></a>
     <a href="https://turbo.build/"><img alt="Turborepo" height="30" width="30" src="https://api.iconify.design/simple-icons/turborepo.svg?color=white" /></a>
     <a href="https://developer.arm.com"><img title="ARM Assembly" height="30" width="40" src="https://api.iconify.design/file-icons/assembly-arm.svg?color=white" /></a>
     <a href="https://www.webassembly.org"><img title="WebAssembly" height="30" width="40" src="https://api.iconify.design/skill-icons/webassembly.svg"/></a>
-</div>
 
-#
 ### Contribuições
 <div style="display: inline_block;">
   <img align="left" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"
 style="flex width:fit; max-width: 100%;">
 </div>  
-
-
-**v-Kaefer/v-Kaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 
 <img alt="Discord" align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 <img alt="ProtonMail" align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
