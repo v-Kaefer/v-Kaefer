@@ -42,7 +42,9 @@
 <a href="https://spotify.com"><img title="Spotify" height="42" width="42" src="https://api.iconify.design/streamline-logos/spotify-logo-block.svg?color=green" /></a>
 <a href="https://wakatime.com"><img title="Wakatime" height="38" width="40" src="https://api.iconify.design/simple-icons/wakatime.svg?color=white" /></a>
 <a href="https://app.eraser.io/"><img title="Eraser.io" height="40" width="40" src="https://api.iconify.design/logos/eraser-icon.svg" /></a>
-<div width="auto">
+
+<p align="auto">
+    <a href="https://wakatime.com/@018d5f34-df78-4033-a92d-469b799c7aca" justify-content="between">
     <h4>Windows</h4>
     <div alt="Windows Workflow">
         <a href="https://code.visualstudio.com/"><img title="VSCode" height="40" width="40" src="https://api.iconify.design/skill-icons/vscode-light.svg" /></a>
@@ -57,7 +59,8 @@
             <a href="https://git-scm.com"><img title="Git" height="40" width="40" src="https://api.iconify.design/pajamas/git.svg?color=crimson" /></a>
         </div>
     </span>
-</div>
+    </a>
+</p>
 <details>
   <summary>💬 About me / Sobre mim</summary>
 
