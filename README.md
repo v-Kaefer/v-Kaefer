@@ -7,7 +7,6 @@
     <th>Languages</th>
     <th>Frameworks</th>
     <th>Infra</th>
-    <th>Planners</th>
     <th>Pkg Manager</th>
   </tr>
   <tr>
@@ -54,15 +53,6 @@
       <table>
         <tr>
           <td>
-            <a href="https://figma.com"><img title="Figma" height="40" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>
             <a href="https://pnpm.io"><img title="PNPM" height="40" width="40" src="https://api.iconify.design/skill-icons/pnpm-light.svg"/></a>
           </td>
         </tr>
@@ -77,9 +67,6 @@
 
 
 #### 📝 Currently Learning / Testing
-<div alt="Testing" style="display: inline_block;">
-  <a href="https://draw.io"><img title="Draw.io" height="40" width="40" src="https://api.iconify.design/vscode-icons/file-type-drawio.svg" /></a>
-</div>
 
 <table>
   <tr>
@@ -92,6 +79,7 @@
   <tr>
     <td>
       <table>
+          <!-- LANGUAGES -->
         <tr>
             <td>
                 <a href="https://www.python.org">
@@ -115,7 +103,9 @@
           </td>
         </tr>
       </table>
+      <!-- INFRA -->
     </td>
+    <!-- FRAMEWORKS -->
     <td>
       <table>
         <tr>
@@ -134,6 +124,7 @@
         </tr>
       </table>
     </td>
+    <!-- TOOLKITS -->
     <td>
       <table>
         <tr>
@@ -149,6 +140,7 @@
           </td>
         </tr>
       </table>
+    <!-- ENGINES -->
     <td>
       <table>
         <tr>
@@ -183,8 +175,10 @@
   <tr>
     <th>Windows</th>
     <th>Linux</th>
+    <th>Planners</th>
   </tr>
   <tr>
+      <!-- WINDOWS -->
     <td>
       <table>
         <tr>
@@ -206,6 +200,7 @@
         </tr>
       </table>
     </td>
+    <!-- LINUX -->
     <td>
       <table>
         <tr>
@@ -223,6 +218,19 @@
             <a href="https://git-scm.com">
               <img title="Git" height="40" width="40" src="https://api.iconify.design/pajamas/git.svg?color=crimson" />
             </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- PLANNERS -->
+    <td>
+      <table>
+        <tr>
+          <td>
+            <a href="https://figma.com"><img title="Figma" height="40" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
+          </td>
+          <td>
+              <a href="https://draw.io"><img title="Draw.io" height="40" width="40" src="https://api.iconify.design/vscode-icons/file-type-drawio.svg" /></a>
           </td>
         </tr>
       </table>
