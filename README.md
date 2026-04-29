@@ -1,7 +1,7 @@
 <!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=v-Kaefer&theme=github-compact&height=350&width=400&hide_border=true&hide_title=true)-->
 <!--<img align="center" width="auto" height="300" src="https://wakatime.com/share/@018d5f34-df78-4033-a92d-469b799c7aca/461063f7-1fc2-4a1c-8970-f50a71b8f03a.svg"/>-->
 
-#### ⚡ Most Used Techs
+### ⚡ Most Used Techs
 <table>
   <tr>
     <th>Languages</th>
@@ -11,52 +11,32 @@
   </tr>
   <tr>
     <td>
-      <table>
-        <tr>
-          <td>
-            <a href="https://www.java.com"><img title="Java" height="40" width="40" src="https://api.iconify.design/skill-icons/java-light.svg?color=white"/></a>
-          </td>
-          <td>
-            <a href="https://www.javascript.com/"><img title="JavaScript" height="40" width="40" src="https://api.iconify.design/skill-icons/javascript.svg"/></a>
-          </td>
-          <td>
-            <a href="https://www.typescriptlang.org"><img title="Typescript" height="40" width="40" src="https://api.iconify.design/skill-icons/typescript.svg" /></a>
-          </td>
-        </tr>
-      </table>
+        <p align="left">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=java,javascript,ts" alt="Languages" />
+          </a>
+        </p>
     </td>
     <td>
-      <table>
-        <tr>
-          <td>
-            <a href="https://vitejs.dev"><img title="Vite"  height="40" width="40" src="https://api.iconify.design/skill-icons/vite-light.svg"/></a>
-          </td>
-          <td>
-            <a href="https://tailwindcss.com"><img title="Tailwind" height="40" width="40" src="https://api.iconify.design/skill-icons/tailwindcss-light.svg" /></a>
-          </td>
-        </tr>
-      </table>
+        <p align="left">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=vite,tailwind" alt="Frameworks" />
+          </a>
+        </p>
     </td>
     <td>
-      <table>
-        <tr>
-          <td>
-            <a href="https://developer.hashicorp.com/terraform"><img title="Terraform"  height="40" width="40" src="https://api.iconify.design/skill-icons/terraform-light.svg"/></a>
-          </td>
-          <td>
-            <a href="https://docker.com"><img title="Docker" height="40" width="40" src="https://api.iconify.design/skill-icons/docker.svg" /></a></a>
-          </td>
-        </tr>
-      </table>
+        <p align="left">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=terraform,docker," alt="Infra" />
+          </a>
+        </p>
     </td>
     <td>
-      <table>
-        <tr>
-          <td>
-            <a href="https://pnpm.io"><img title="PNPM" height="40" width="40" src="https://api.iconify.design/skill-icons/pnpm-light.svg"/></a>
-          </td>
-        </tr>
-      </table>
+        <p align="left">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=pnpm,npm" alt="" />
+          </a>
+        </p>
     </td>
   </tr>
 </table>
@@ -66,7 +46,7 @@
 </div>
 
 
-#### 📝 Currently Learning / Testing
+### 📝 Currently Learning / Testing
 
 <table>
   <tr>
@@ -81,24 +61,14 @@
       <table>
           <!-- LANGUAGES -->
         <tr>
-            <td>
-                <a href="https://www.python.org">
-                    <img title="Python" height="40" width="40" src="https://api.iconify.design/skill-icons/python-light.svg" />
-                </a>
-            </td>
-          <td>
-            <a href="https://www.rust-lang.org">
-                <img title="Rust" height="40" width="40" src="https://api.iconify.design/skill-icons/rust.svg"/>
+          <p align="left">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=python,rust,go" alt="" />
             </a>
-          </td>
-          <td>
-            <a href="https://go.dev">
-                <img title="Golang" height="40" width="40" src="https://api.iconify.design/skill-icons/golang.svg"/>
-            </a>
-          </td>
+          </p>
           <td>
             <a href="https://github.com/radixdlt/radixdlt-scrypto">
-                <img title="Scrypto" height="40" width="40" src="https://avatars.githubusercontent.com/u/34097377?s=48&amp;v=4" />
+                <img title="Scrypto" height="50" width="50" src="https://avatars.githubusercontent.com/u/34097377?s=48&amp;v=4" />
             </a>
           </td>
         </tr>
@@ -107,46 +77,34 @@
     </td>
     <!-- FRAMEWORKS -->
     <td>
-      <table>
-        <tr>
-          <td>
-            <a href="https://aws.amazon.com"><img title="Amazon Web Services" height="40" width="40" src="https://api.iconify.design/streamline-logos/amazon-web-service-logo-block.svg?color=darkorange" /></a>
-          </td>
-          <td>
-            <a href="https://pages.cloudflare.com/"><img title="Cloudflare" height="40" width="40" src="https://api.iconify.design/skill-icons/cloudflare-light.svg" /></a>  
-          </td>
-          <td>
-            <a href="https://www.proxmox.com/en/"><img title="Proxmox" height="40" width="40" src="https://api.iconify.design/streamline-logos/proxmox-logo-block.svg?color=orange" /></a>
-          </td>
-          <td>
-            <a href="https://trpc.io"><img title="tRPC" height="30" width="40" src="https://api.iconify.design/devicon/trpc.svg" /></a>
-          </td>
-        </tr>
-      </table>
+        <p align="left">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=aws,cloudflare" alt="" />
+          </a>
+        </p>
+        <p>
+            <a href="https://skills.syvixor.com">
+              <img src="https://skills.syvixor.com/api/icons?i=proxmox,trpc" alt="" />
+            </a>
+        </p>
     </td>
     <!-- TOOLKITS -->
     <td>
-      <table>
-        <tr>
-          <td>
-            <a href="https://tauri.app">
-                <img title="Tauri" height="40" width="40" src="https://api.iconify.design/skill-icons/tauri-light.svg" />
-            </a>
-          </td>
-          <td>
-            <a href="https://angular.dev">
-                <img title="Angular" height="40" width="40" src="https://api.iconify.design/streamline-logos/angular-logo-block.svg?color=red"/>
-            </a>
-          </td>
-        </tr>
-      </table>
+        <p align="left">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=tauri,angular" alt="" />
+          </a>
+        </p>
+    </td>
     <!-- ENGINES -->
     <td>
+        <p align="left">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=bun" alt="" />
+          </a>
+        </p>
       <table>
         <tr>
-          <td>
-            <a href="https://bun.sh"><img title="Bun" height="40" width="40" src="https://api.iconify.design/skill-icons/bun-light.svg"/></a>
-          </td>
           <td>
             <a href="https://zardui.com">
                 <img title="ZardUI" height="40" width="40" src="https://github.com/zard-ui/zardui/blob/master/apps/web/public/images/logo.png" />
@@ -156,15 +114,11 @@
       </table>
     </td>
     <td>
-      <table>
-        <tr>
-          <td>
-            <a href="https://godotengine.org">
-                <img title="Godot" height="40" width="40" src="https://api.iconify.design/skill-icons/godot-light.svg" />
-            </a>
-          </td>
-        </tr>
-      </table>
+        <p align="left">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=godot" alt="" />
+          </a>
+        </p>
     </td>
   </tr>
 </table>
@@ -182,21 +136,16 @@
     <td>
       <table>
         <tr>
-          <td>
-            <a href="https://code.visualstudio.com/">
-              <img title="VSCode" height="40" width="40" src="https://api.iconify.design/skill-icons/vscode-light.svg" />
-            </a>
-          </td>
-          <td>
-            <a href="https://anytype.io">
-              <img title="Anytype" height="40" width="40" src="https://api.iconify.design/simple-icons/anytype.svg?color=white" />
-            </a>
-          </td>
-          <td>
-            <a href="https://desktop.github.com/">
-              <img title="GitHub Desktop" height="40" width="40" src="https://api.iconify.design/streamline-logos/github-logo-2-block.svg?color=white" />
-            </a>
-          </td>
+            <p align="left">
+              <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=vscode,github" alt="" />
+              </a>
+            </p>
+            <p>
+                <a href="https://skills.syvixor.com">
+                  <img src="https://skills.syvixor.com/api/icons?i=anytype" alt="" />
+                </a>
+            </p>
         </tr>
       </table>
     </td>
@@ -214,21 +163,23 @@
               <img title="Zed" height="40" width="40" src="https://api.iconify.design/devicon/zed.svg" />
             </a>
           </td>
-          <td>
-            <a href="https://git-scm.com">
-              <img title="Git" height="40" width="40" src="https://api.iconify.design/pajamas/git.svg?color=crimson" />
+          <p align="left">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=git" alt="" />
             </a>
-          </td>
+          </p>
         </tr>
       </table>
     </td>
     <!-- PLANNERS -->
     <td>
+        <p align="left">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=figma" alt="" />
+          </a>
+        </p>
       <table>
         <tr>
-          <td>
-            <a href="https://figma.com"><img title="Figma" height="40" width="40" src="https://api.iconify.design/skill-icons/figma-light.svg"/></a>
-          </td>
           <td>
               <a href="https://draw.io"><img title="Draw.io" height="40" width="40" src="https://api.iconify.design/vscode-icons/file-type-drawio.svg" /></a>
           </td>
